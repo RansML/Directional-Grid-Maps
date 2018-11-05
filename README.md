@@ -6,7 +6,7 @@
 
 Firstly, we create a spatiotemporal database as a pre-processing step.
 
-![Screenshot]("/Motivation.pdf")
+![Screenshot]("/multimodal_sim2.pdf")
 
 **Demonstration**
 TBD
