@@ -5,8 +5,8 @@
 * Install spherecluster (pip install spherecluster)
 
 Firstly, we create a spatiotemporal database as a pre-processing step.
-
-![Screenshot](/multimodal_sim2.png)
+![](/unimodal_sim1.png | width=100)
+![](/multimodal_sim2.png | width=100)
 
 **Demonstration**
 TBD
