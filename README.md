@@ -1,16 +1,25 @@
-# Directional-Grid-Maps
-
-<<<<<<< HEAD
-# Directional Grid Maps for Angular Motion Modeling
-
+# Directional Grid Maps: Modeling Multimodal Angular Uncertainty in Dynamic Environments
 
 ### Instructuions
-Use Python 3.x
-Install spherecluster (pip install spherecluster)
+* Use Python 3.x
+* Install spherecluster (pip install spherecluster)
 
 Firstly, we create a spatiotemporal database as a pre-processing step.
-=======
-#### Working paper: Directional Grid Maps for Angular Motion Modeling
 
-<img src="/Motivation.pdf" width="600">
->>>>>>> 62c5310a8659fa7099232f4f7147bf240673a832
+![Screenshot]("/Motivation.pdf")
+
+**Demonstration**
+TBD
+
+**[Papers:](https://drive.google.com/file/d/1i-b6Lu0PwoCrEWtt3rFfjKPjlmit8cLk/view)**
+```
+@inproceedings{senanayake2017bayesian,
+  title={Directional Grid Maps: Modeling Multimodal Angular Uncertainty in Dynamic Environments},
+  author={Senanayake, Ransalu and Ramos, Fabio},
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  year={2018}
+}
+```
+
+**Videos:**
+[https://youtu.be/2cUfh_TpbvM](https://youtu.be/2cUfh_TpbvM)
