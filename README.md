@@ -15,7 +15,7 @@ TBD
 
 **[Papers:](https://drive.google.com/file/d/1i-b6Lu0PwoCrEWtt3rFfjKPjlmit8cLk/view)**
 ```
-@inproceedings{senanayake2017bayesian,
+@inproceedings{senanayake2018directional,
   title={Directional Grid Maps: Modeling Multimodal Angular Uncertainty in Dynamic Environments},
   author={Senanayake, Ransalu and Ramos, Fabio},
   booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems},
